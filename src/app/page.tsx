@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Website } from "@/types/website";
 
 async function getWebsiteData(): Promise<Website> {
